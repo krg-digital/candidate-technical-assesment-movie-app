@@ -36,7 +36,7 @@ The database load is nill
 
 A restart seems to fix it for the next hour.  Right now we have a cron job restarting it every half hour.
 
-We'd love to improve the uptime, what's cuasing this?
+We'd love to improve the uptime, what's causing this?
 
 
 ---------
